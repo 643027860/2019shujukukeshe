@@ -1,0 +1,8 @@
+.el-menu.el-menu--horizontal{
+  border-bottom: 0px;
+}
+.el-submenu__title{
+  font-size: 18px;
+  width: 150px;
+  text-align: center;
+}
